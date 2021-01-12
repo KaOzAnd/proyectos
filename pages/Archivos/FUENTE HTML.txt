@@ -1,0 +1,142 @@
+<table style="width:100%; border:undefined">
+	<tbody>
+		<tr>
+			<td style="width:25%">&nbsp;</td>
+			<td style="white-space: nowrap; text-align: center;"><br />
+			<img alt="LOGO OT.png" src="/SystransPruebas/Images/editor/LOGO OT.png" /><br />
+			<strong>No.<span class="wll_variable" data-variable="91" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Numero CT&gt;&gt;</span></strong></td>
+			<td style="width:25%">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align:center"><strong>CERTIFICADO DE TRADICION</strong></p>
+
+<table style="width:100%; border:undefined">
+	<tbody>
+		<tr>
+			<td style="white-space:nowrap; width:25%"><strong>Placa:</strong></td>
+			<td style="white-space:nowrap; width:25%"><span class="wll_variable" data-variable="92" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Placa&gt;&gt;</span>&nbsp;</td>
+			<td style="white-space:nowrap; width:25%"><strong>Clase:</strong></td>
+			<td style="white-space:nowrap; width:25%"><span class="wll_variable" data-variable="68" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Clase&gt;&gt;</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Marca:</strong></td>
+			<td><span class="wll_variable" data-variable="70" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Marca&gt;&gt;</span>&nbsp;</td>
+			<td><strong>Modelo:</strong></td>
+			<td><span class="wll_variable" data-variable="72" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Modelo&gt;&gt;</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Color:</strong></td>
+			<td><span class="wll_variable" data-variable="71" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Color&gt;&gt;</span>&nbsp;</td>
+			<td><strong>Servicio:</strong></td>
+			<td><span class="wll_variable" data-variable="97" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Servicio&gt;&gt;</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Carrocer&iacute;a:</strong></td>
+			<td><span class="wll_variable" data-variable="79" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Tipo carrocer&iacute;a&gt;&gt;</span>&nbsp;</td>
+			<td><strong>Motor:</strong></td>
+			<td><span class="wll_variable" data-variable="73" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Nro. motor&gt;&gt;</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Serie:</strong></td>
+			<td><span class="wll_variable" data-variable="83" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Nro. serie&gt;&gt;</span>&nbsp;</td>
+			<td><strong>Linea:</strong></td>
+			<td><span class="wll_variable" data-variable="81" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;L&iacute;nea&gt;&gt;</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Chasis:</strong></td>
+			<td><span class="wll_variable" data-variable="78" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Nro. chasis&gt;&gt;</span>&nbsp;</td>
+			<td><strong>Capacidad:</strong></td>
+			<td><span class="wll_variable" data-variable="82" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Capacidad pasajeros sentados&gt;&gt;</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>VIN:</strong></td>
+			<td><span class="wll_variable" data-variable="76" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;VIN&gt;&gt;</span>&nbsp;</td>
+			<td><strong>Puertas:</strong></td>
+			<td><span class="wll_variable" data-variable="86" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Nro. puertas&gt;&gt;</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Cilindraje:</strong></td>
+			<td><span class="wll_variable" data-variable="80" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Cilindraje&gt;&gt;</span>&nbsp;</td>
+			<td><strong>Estado:</strong></td>
+			<td><span class="wll_variable" data-variable="69" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Estado del veh&iacute;culo&gt;&gt;</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Nro de Orden:</strong></td>
+			<td>&nbsp;</td>
+			<td><strong>EMPRESA TRANSPORTADORA:</strong></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Tarjeta de Operaci&oacute;n:</strong></td>
+			<td colspan="3" rowspan="1">&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Fecha de Vencimiento T.O:</strong></td>
+			<td colspan="3" rowspan="1">&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Manifiesto de Aduana o Acta de Remate:</strong></td>
+			<td colspan="3" rowspan="1"><span class="wll_variable" data-variable="101" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Manifiesto de Aduana o Acta de Remate&gt;&gt;</span>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<div>&nbsp;</div>
+
+<div><strong>Medida Cautelares y Limitaciones</strong></div>
+
+<div><span class="wll_variable" data-variable="95" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Medidas cautelares&gt;&gt;</span>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><strong>Prenda o Pignoraci&oacute;n</strong></div>
+
+<div><span class="wll_variable" data-variable="96" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Limitaciones&gt;&gt;</span></div>
+
+<div>&nbsp;</div>
+
+<div><strong>Propietario(s) Actual(es)</strong></div>
+
+<div><span class="wll_variable" data-variable="90" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Propietarios&gt;&gt;</span>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><strong>Historial de propietarios</strong></div>
+
+<div><span class="wll_variable" data-variable="93" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Historial de propietarios&gt;&gt;</span>&nbsp;</div>
+
+<p><strong>Observaciones</strong></p>
+
+<div><span style="font-size:9px">Se expide en Fusagasug&aacute;&nbsp;a los&nbsp;</span><span class="wll_variable" data-variable="102" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Dia&gt;&gt;</span>&nbsp;<span style="font-size:9px">&nbsp; d&iacute;as del mes de&nbsp; </span><span class="wll_variable" data-variable="103" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;Mes&gt;&gt;</span>&nbsp;<span style="font-size:9px">&nbsp; de&nbsp;&nbsp;</span><span class="wll_variable" data-variable="104" style="background: #F9FAFC;font-style:italic;color:#DD4B39">&lt;&lt;A&ntilde;o&gt;&gt;</span>&nbsp;<span style="font-size:9px">&nbsp;&nbsp;</span></div>
+
+<table style="width:100%; border:undefined">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:20%">
+			<p>&nbsp;&nbsp;</p>
+
+			<p><img alt="Escudo-de-Colombia.jpg" src="/Systrans_Fusagasuga/Images/editor/Escudo-de-Colombia.jpg" style="max-height: 100%; width: 40px;" /></p>
+			</td>
+			<td style="text-align: center;"><br />
+			<br />
+			<img alt=" Firma Autorizada" class="wll_variable" data-variable="150" src="__FIRMA__" style="width: 255px" /></td>
+			<td rowspan="2" style="width: 20%; text-align: right;">
+			<p>&nbsp;</p>
+
+			<p><img alt="mintra.png" src="/Systrans_Fusagasuga/Images/editor/mintra.png" style="max-height: 100%; width: 40px;" /></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">Firma de Funcionario</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:9px">Este documento tiene vigencia de 30 d&iacute;as calendario a partir de la fecha de la expedici&oacute;n</span><br />
+&nbsp;</p>
+
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
+
+<p><!--Demo--><!--Fin Demo--></p>
